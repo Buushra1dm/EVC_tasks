@@ -1,0 +1,9 @@
+gradio
+torch
+torchvision
+numpy<2
+torchaudio
+pyyaml
+huggingface_hub
+safetensors
+timm
