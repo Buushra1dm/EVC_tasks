@@ -19,7 +19,7 @@ This repository contains the tasks completed during my summer training at **EVC 
 
 | Week          | Link to Details        |
 |---------------|-------------------------|
-| [Week 1](#week-1) | Tasks for Week 1      |
+| [Week 1](#Week1) | Tasks for Week 1      |
 | [Week 2](#week-2) | Tasks for Week 2      |
 | [Week 3](#week-3) | Tasks for Week 3      |
 | [Week 4](#week-4) | Tasks for Week 4      |
