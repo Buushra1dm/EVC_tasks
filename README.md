@@ -4,17 +4,6 @@ This repository contains the tasks completed during my summer training at **EVC 
 
 ---
 
-## 📑 Table of Contents
-
-1. [About the Internship](#about-the-internship)
-2. [Key Tasks](#key-tasks)
-3. [Tools and Technologies](#tools-and-technologies)
-4. [Directory Structure](#directory-structure)
-5. [How to Use](#how-to-use)
-6. [Acknowledgments](#acknowledgments)
-
----
-
 ## 🛠 Tools and Technologies
 
 - **Programming Languages**: Python  
