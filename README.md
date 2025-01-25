@@ -17,11 +17,16 @@ This repository contains the tasks completed during my summer training at **EVC 
 
 ## 📅 Weekly Tasks
 
-| Week          | Link to Details        |
+| Week          | Concept        |
 |---------------|-------------------------|
 | [Week 1](#Week1) | Tasks for Week 1      |
-| [Week 2](#week-2) | Tasks for Week 2      |
-| [Week 3](#week-3) | Tasks for Week 3      |
-| [Week 4](#week-4) | Tasks for Week 4      |
-| [Week 5](#week-5) | Tasks for Week 5      |
+| [Week 2](#Week2) | Tasks for Week 2      |
+| [Week 3](#Week3) | Tasks for Week 3      |
+| [Week 4](#Week4) | Tasks for Week 4      |
+| [Week 5](#Week15) | Tasks for Week 5      |
+| [Week 6](#week-5) | Hackthon      |
+| [Week 7](#week-5) | Final Project      |
+
+[Link Text](https://github.com/username/repository-name)
+
 | [Challenges](#challenges) | Challenges Overview |
