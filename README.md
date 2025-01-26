@@ -26,7 +26,7 @@ This repository contains the tasks completed during my summer training at **EVC 
 | [Week 5](#Week15) | Tasks for Week 5      |
 | [Week 6](#week-5) | Hackthon      |
 | [Week 7](#week-5) | Final Project      |
-
+| [Challenges](#challenges) | Challenges Overview |
 [Link Text](https://github.com/username/repository-name)
 
-| [Challenges](#challenges) | Challenges Overview |
+
