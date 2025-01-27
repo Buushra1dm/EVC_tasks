@@ -25,18 +25,8 @@ This repository contains the tasks completed during my summer training at **EVC 
 | Week 3       | [Week3](./Week3) |
 | Week 4       | [Week4](./Week4) |
 | Week 5       | [Week5](./Week5) |
-| Challenges   | [challenges](./challenges) |
-
-| Week          | Concept        |
-|---------------|-------------------------|
-| [Week1](#Week1) | Tasks for Week 1      |
-| [Week 2](#Week2) | Tasks for Week 2      |
-| [Week 3](#Week3) | Tasks for Week 3      |
-| [Week 4](#Week4) | Tasks for Week 4      |
-| [Week 5](#Week15) | Tasks for Week 5      |
-| [Week 6](#week-5) | Hackthon      |
-| [Week 7](#week-5) | Final Project      |
-| [Challenges](#challenges) | Challenges Overview |
-[Link Text](https://github.com/username/repository-name)
+| Week 6       | [Week1](./Week1) | Hackthon      |
+| Week 7       | [Parentpals](https://github.com/Buushra1dm/Parentpals-Autism-Community) | Final Project    |
+| Challenges   | [challenges](./challenges) | Challenges Overview |
 
 
