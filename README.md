@@ -25,7 +25,7 @@ This repository contains the tasks completed during my summer training at **EVC 
 | Week 3       | [Week3](./Week3) |
 | Week 4       | [Week4](./Week4) |
 | Week 5       | [Week5](./Week5) |
-| Week 6       | [./Week1](https://github.com/Buushra1dm/sheep_detection) | Hackthon      |
+| Week 6       | [Ana'am](https://github.com/Buushra1dm/sheep_detection) | Hackthon      |
 | Week 7       | [Parentpals](https://github.com/Buushra1dm/Parentpals-Autism-Community) | Final Project    |
 | Challenges   | [challenges](./challenges) | Challenges Overview |
 
