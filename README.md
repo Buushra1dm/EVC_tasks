@@ -20,11 +20,11 @@ This repository contains the tasks completed during my summer training at **EVC 
 
 | Week/Section | Link | Concept        |
 |--------------|------|-------------------------|
-| Week 1       | [Week1](./Week1) | [Online Quiz](https://github.com/Buushra1dm/OOP_project1)     |
-| Week 2       | [Week2](./Week2) | [Sleep Analysis](https://github.com/Buushra1dm/sleepDisorderClassify) |
-| Week 3       | [Week3](./Week3) | [Drowsiness Detection](https://github.com/Buushra1dm/Drowsiness-Detection) |
-| Week 4       | [Week4](./Week4) | [Articles Project ](https://github.com/Buushra1dm/articles_project) |
-| Week 5       | [Week5](./Week5) |  |
+| Week 1       | [Week1](./Week1) & [Online Quiz](https://github.com/Buushra1dm/OOP_project1)     | Python Fundamentals |
+| Week 2       | [Week2](./Week2) & [Sleep Analysis](https://github.com/Buushra1dm/sleepDisorderClassify) | ML |
+| Week 3       | [Week3](./Week3) & [Drowsiness Detection](https://github.com/Buushra1dm/Drowsiness-Detection) | DL |
+| Week 4       | [Week4](./Week4) & [Articles Project ](https://github.com/Buushra1dm/articles_project) | LLMs |
+| Week 5       | [Week5](./Week5) | Deployment |
 | Week 6       | [Ana'am](https://github.com/Buushra1dm/sheep_detection) | Hackthon      |
 | Week 7       | [Parentpals](https://github.com/Buushra1dm/Parentpals-Autism-Community) | Final Project    |
 | Challenges   | [challenges](./challenges) | Challenges Overview |
