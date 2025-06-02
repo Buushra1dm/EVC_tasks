@@ -18,7 +18,7 @@ This repository contains the tasks completed during my summer training at **EVC 
 ## 📅 Weekly Tasks
 
 
-| Week/Section | Link | Concept        |
+| Week/Section | Link | Concept Covered        |
 |--------------|------|-------------------------|
 | Week 1       | [Week1](./Week1) & [Online Quiz](https://github.com/Buushra1dm/OOP_project1)     | Python Fundamentals |
 | Week 2       | [Week2](./Week2) & [Sleep Analysis](https://github.com/Buushra1dm/sleepDisorderClassify) | ML |
