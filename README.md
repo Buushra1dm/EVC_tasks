@@ -10,7 +10,7 @@ This repository contains the tasks completed during my summer training at **EVC 
 - **Frameworks**: Flask, Streamlit  
 - **Machine Learning**: Scikit-learn, PyTorch  
 - **NLP**: Hugging Face Transformers, NLTK  
-- **Visualization**: Matplotlib, Seaborn, Plotly  
+- **Visualization**: Matplotlib, Seaborn, Plotly, Power BI  
 - **Other Tools**: Git, Jupyter Notebooks
 
 ---
